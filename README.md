@@ -1,4 +1,4 @@
-# CS381
+# School Projects
 
 Projects for Advanced C++
 
