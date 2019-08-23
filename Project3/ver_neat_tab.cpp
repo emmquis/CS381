@@ -1,4 +1,4 @@
-//Very Neat TableProject #3
+//Very Neat Table Project #3
 //main class provided by TA
 
 #include<iostream>
@@ -369,7 +369,7 @@ ostream& operator<<(ostream& os, VNT<T> vnt)
 //  VNT
 //
 //  Created by Zhenhua Cai on 10/22/18.
-//  Copyright © 2018 Zhenhua Cai. All rights reserved.
+//  Copyright Â© 2018 Zhenhua Cai. All rights reserved.
 //
 
 int main() 
